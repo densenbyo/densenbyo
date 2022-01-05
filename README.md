@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @densenbyo
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Java, Django and simple Front-End
+- 🌱 I’m currently learning Java and simple Front-End
 - 💞️ I’m looking for opportunity to grow
 
 <!---
