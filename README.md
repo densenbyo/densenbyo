@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @densenbyo
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Java and simple Front-End
+- 🌱 I’m currently enlarging my knowledge in Back-End development 
 
 >The only way to improve your coding skills is to share your knowledge and help others
 
